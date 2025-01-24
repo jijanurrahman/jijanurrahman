@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, PHP, advanced machine learning techniques, enhancing my deep learning skills, and exploring modern web development frameworks to build more efficient and dynamic applications.**
 
-- 👨‍💻 All of my projects are available at [https://jijanurrahman.netlify.app/](https://jijanurrahman.netlify.app/)
+- 👨‍💻 All of my projects are available at [Jijanur Rahman](https://github.com/jijan67?tab=repositories)
 
 - 💬 Ask me about **Django, Deep Learning, Machine Learning, Web development, or crafting seamless frontend and backend solutions!**
 
