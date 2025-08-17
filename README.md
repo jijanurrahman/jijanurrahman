@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jijanurrahman22@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jijanur-rahman-81877a308/details/certifications/](https://www.linkedin.com/in/jijanur-rahman-81877a308/details/certifications/)
+- 📄 Know about my experiences [Jijanur Rahman](https://jijanurrahman.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
