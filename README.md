@@ -44,7 +44,7 @@
 #### 🔹 Web & Full-Stack Development  
 - 📖 [**Book Generator App**](https://github.com/jijan67/Book-Generator-APP) → Built with **React**  
 - 📝 [**Real-Time Collaborative Presentation Editor**](https://github.com/jijan67/jijan67-Collaborative-Presentation-Editor) → Multi-user editing with **React & Fabric.js**  
-- 💬 [**Real-Time Chat Application**]([https://github.com/jijan67/Real-Time-Chat-Application) → Using **Django, HTML, CSS, JS**  
+- 💬 [**Real-Time Chat Application**](https://github.com/jijan67/Real-Time-Chat-Application) → Using **Django, HTML, CSS, JS**  
 - 🌐 [**Codeflix – Programming Tutorials Website**](https://github.com/jijan67/Codeflix-Programming_Tutorials_Website-) → Built with **Django, HTML, CSS, JavaScript**  
 - 📊 [**Full-Stack Roadmap Feedback App**](https://github.com/jijan67/Roadmap-Feedback-App-Using-Django-React) → **Django REST API** + **React Frontend**  
 
