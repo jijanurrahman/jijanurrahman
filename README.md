@@ -1,29 +1,92 @@
-<h1 align="center">Hi 👋, I'm Jijanur Rahman</h1>
-<h3 align="center">A passionate full-stack developer with a focus on deep learning and web development.</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Jijanur Rahman</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | Deep Learning & AI Enthusiast | ML/DL Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jijan67&label=Profile%20views&color=0e75b6&style=flat" alt="jijan67" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jijan67" alt="jijan67" /></a> </p>
-
-- 🌱 I’m currently learning **React.js, Node.js, PHP, advanced machine learning techniques, enhancing my deep learning skills, and exploring modern web development frameworks to build more efficient and dynamic applications.**
-
-- 👨‍💻 All of my projects are available at [Jijanur Rahman](https://github.com/jijan67?tab=repositories)
-
-- 💬 Ask me about **Django, Deep Learning, Machine Learning, Web development, or crafting seamless frontend and backend solutions!**
-
-- 📫 How to reach me **jijanurrahman22@gmail.com**
-
-- 📄 Know about my experiences [Jijanur Rahman](https://jijanurrahman.netlify.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jijanur-rahman-81877a308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jijanur rahman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@jijangamingbd5608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jijan gaming bd" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=jijan67">
+    <img src="https://komarev.com/ghpvc/?username=jijan67&label=Profile%20Views&color=brightgreen&style=flat-square" alt="views"/>
+  </a>
+  <a href="https://github.com/jijan67?tab=followers">
+    <img src="https://img.shields.io/github/followers/jijan67?label=Followers&style=social" alt="followers"/>
+  </a>
+  <a href="https://github.com/jijan67">
+    <img src="https://img.shields.io/github/stars/jijan67?label=Stars&style=social" alt="stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jijan67&show_icons=true&locale=en&layout=compact" alt="jijan67" /></p>
+### 🌟 About Me  
+🎓 **B.Sc. in Computer Science & Engineering (CSE), 2024** – *Port City International University*. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jijan67&show_icons=true&locale=en" alt="jijan67" /></p>
+💡 Passionate about **Full-Stack Development**, **Machine Learning**, and **Deep Learning**.
+
+⚡ Experienced in building scalable applications with **Django (Backend)** & **React (Frontend)**.
+
+⚡ Passionate about turning **complex problems into scalable, real-world solutions**, blending **AI research** with **modern web development**.  
+
+🚀 Always exploring **cutting-edge technologies** to create impactful applications. 
+
+📚 **Published Research Paper** → *Integrating ML & DL for Image Captioning & Text Recognition in Mobile Apps* [📄 Publication Link](https://ieeexplore.ieee.org/document/11013883) *(4th International Conference on ECCE 2025)*.
+
+
+---
+
+### 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,git,github,mysql,postgresql,sqlite,aws,tensorflow,pytorch,opencv,figma,photoshop,ai" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+#### 🔹 Web & Full-Stack Development  
+- 📖 [**Book Generator App**](https://github.com/jijan67/Book-Generator-APP) → Built with **React**  
+- 📝 [**Real-Time Collaborative Presentation Editor**](https://github.com/jijan67/jijan67-Collaborative-Presentation-Editor) → Multi-user editing with **React & Fabric.js**  
+- 💬 [**Real-Time Chat Application**]([https://github.com/jijan67/Real-Time-Chat-Application) → Using **Django, HTML, CSS, JS**  
+- 🌐 [**Codeflix – Programming Tutorials Website**](https://github.com/jijan67/Codeflix-Programming_Tutorials_Website-) → Built with **Django, HTML, CSS, JavaScript**  
+- 📊 [**Full-Stack Roadmap Feedback App**](https://github.com/jijan67/Roadmap-Feedback-App-Using-Django-React) → **Django REST API** + **React Frontend**  
+
+#### 🔹 Machine Learning & AI Projects  
+- 🌱 [**Crop Recommendation System (CatBoost)**](https://github.com/jijan67/Crop-Recommendation-System-Using-CatBoost-Classifier-Model.git) → Achieved **99.55% Accuracy**  
+- 🌾 [**Crop Recommendation System (Ensemble Learning)**](https://github.com/jijan67/Crop-Recommendation-System-Using-Ensemble-Learning-With-99-Percent-Accuracy.git) → Achieved **99% Accuracy**  
+- 🧠 [**Sentiment Analysis (CNN + LSTM)**](https://github.com/jijan67/Sentiment-Analysis-CNN-LSTM-Ensemble.git) → **96% Accuracy**  
+- 🌦️ [**Weather Classification System (EfficientNetB3)**](https://github.com/jijan67/Weather-Classification-System-Using-EfficientNetB3.git) → **99% Accuracy** on custom dataset  
+- 🐦 [**Twitter Sentiment Analysis**](https://github.com/jijan67/Twitter-Sentiment-Analysis-with-TF-IDF-and-Decision-Tree-Classification.git) → Using **TF-IDF + Decision Tree**  
+
+#### 🔹 Games & Fun Projects  
+- 🍬 [**Candy Crush Game (Web)**](https://github.com/jijan67/Candy-Crush-Game) → Built with **HTML, CSS, JavaScript**  
+- 🎮 [**3D Cube Smashing Game**](https://github.com/jijan67/3D-Cube-Smashing-Game)  
+- 🪐 [**Planet Defence Game**](https://github.com/jijan67/Planet-Defence-Game)  
+- ❌⭕ [**Animated Tic-Tac-Toe Game**](https://github.com/jijan67/Animated-Tic-Tac-Toe-Game)  
+- ✊✋✌️ [**Rock-Paper-Scissors Game**](https://github.com/jijan67/Rock-Paper-Scissors-Game)  
+
+---
+
+### 🏆 Achievements & Certifications  
+- 🥇 **GitHub Professional Certificate**  
+- 🥇 **Generative AI Certificate**  
+- 🥇 **Responsive Web Design | Scientific Computing with Python | REST API | Software Engineering | Problem Solving**  
+- 📜 More details → [Achievements](https://jijanurrahman.netlify.app)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jijan67&theme=radical" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jijan67&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijan67&layout=compact&theme=radical" alt="langs"/>
+</p>
+
+---
+
+### 🌍 Connect With Me  
+<p align="center">
+  <a href="mailto:jijanurrahman22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jijanur-rahman-81877a308/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://jijangamingbd.netlify.app"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://jijanurrahman.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
