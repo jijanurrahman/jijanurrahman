@@ -210,8 +210,8 @@ motto: "Transforming complex problems into scalable solutions"
 | Game | Tech Stack | Status |
 |------|-----------|--------|
 | 🍬 [Candy Crush](https://github.com/jijanurrahman/Candy-Crush-Game) | HTML, CSS, JS | ✅ Live |
-| 🎮 [3D Cube Smashing](https://github.com/jijanurrahman/3D-Cube-Smashing-Game) | Unity | ✅ Live |
-| 🪐 [Planet Defence](https://github.com/jijanurrahman/Planet-Defence-Game) | Unity | ✅ Live |
+| 🎮 [3D Cube Smashing](https://github.com/jijanurrahman/3D-Cube-Smashing-Game) | HTML, CSS, JS | ✅ Live |
+| 🪐 [Planet Defence](https://github.com/jijanurrahman/Planet-Defence-Game) | HTML, CSS, JS | ✅ Live |
 | ❌⭕ [Animated Tic-Tac-Toe](https://github.com/jijanurrahman/Animated-Tic-Tac-Toe-Game) | HTML, CSS, JS | ✅ Live |
 | ✊✋✌️ [Rock-Paper-Scissors](https://github.com/jijanurrahman/Rock-Paper-Scissors-Game) | HTML, CSS, JS | ✅ Live |
 
